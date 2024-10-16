@@ -1,7 +1,7 @@
 # quote-app
 The Quote of the Day App is a web application designed to inspire and motivate users by displaying a new quote every time the page is refreshed.
 
-uilt using Python and Flask, the app randomly selects quotes from a predefined list and presents them in an aesthetically pleasing manner. This project serves as a great introduction to web development with Flask and showcases how to serve dynamic content with a simple backend.
+Built using Python and Flask, the app randomly selects quotes from a predefined list and presents them in an aesthetically pleasing manner. This project serves as a great introduction to web development with Flask and showcases how to serve dynamic content with a simple backend.
 
 Features
 Random Quotes: Displays a randomly selected motivational or inspirational quote each time the page is loaded or refreshed.
